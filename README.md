@@ -1,2 +1,2 @@
 # PyImage
-Compress Image
+Compress Image with PIL and Python(Tkinter) 
